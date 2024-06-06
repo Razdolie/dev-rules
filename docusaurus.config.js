@@ -91,41 +91,37 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Основное',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'razdolie.ru',
+                href: 'https://razdolie.ru/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Сообщество',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Infostart',
+                href: 'https://infostart.ru/profile/335686/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@vcrazdolie/featured',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'VK',
+                href: 'https://vk.com/vcrazdolie',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Еще',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Вакансии',
+                href: 'https://barnaul.hh.ru/employer/48609',
               },
             ],
           },
