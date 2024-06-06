@@ -1,7 +1,7 @@
 # Гид по внутренним процессам и снадартам разработки
 ## Документация
 
-[Razdolie.github.io/dev-rules](https://Razdolie.github.io/dev-rules/)
+[razdolie.github.io/dev-rules](https://razdolie.github.io/dev-rules/)
 
 ---
 

@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://Razdolie.github.io/',
+  url: 'https://razdolie.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/dev-rules',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Razdolie/dev-rules/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/razdolie/dev-rules/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         theme: {
@@ -93,7 +93,7 @@ const config = {
             label: 'Документация',
           },
           {
-            href: 'https://github.com/Razdolie/dev-rules',
+            href: 'https://github.com/razdolie/dev-rules',
             label: 'GitHub',
             position: 'right',
           },
