@@ -27,10 +27,22 @@
   --ifm-color-primary-lighter: #1044bc;
   --ifm-color-primary-lightest: #1044bc;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-title: #e3e3e3;
 }
 
 .hero--grow {
   flex-grow: 1;
+}
+
+.navbar__logo{
+  margin-right: 0;
+}
+.hero__title{
+  color: var(--ifm-color-title);
+}
+
+.hero__subtitle{
+  color: var(--ifm-color-title);
 }
 
 @media screen and (max-width: 480px) {
