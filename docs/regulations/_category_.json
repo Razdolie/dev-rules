@@ -1,0 +1,9 @@
+{
+  "label": "Регламент разработки",
+  "position": 1,
+  "link": {
+    "slug": "regulations",
+    "type": "generated-index",
+    "description": "Регламент разработки"
+  }
+}
