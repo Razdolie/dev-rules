@@ -1,0 +1,9 @@
+{
+  "label": "Метаданные",
+  "position": 5,
+  "link": {
+    "slug": "metadata",
+    "type": "generated-index",
+    "description": "Метаданные"
+  }
+}

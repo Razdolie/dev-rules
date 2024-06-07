@@ -1,0 +1,9 @@
+{
+  "label": "Примеры",
+  "position": 2,
+  "link": {
+    "slug": "examples_technical_solutions",
+    "type": "generated-index",
+    "description": "Примеры технических решений"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Технические решения",
+  "position": 13,
+  "link": {
+    "slug": "technical_solutions",
+    "type": "generated-index",
+    "description": "Технические решения"
+  }
+}
