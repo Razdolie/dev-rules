@@ -85,13 +85,7 @@ const config = {
           src: 'img/logo.svg',
           width: '180px',
         },
-        items: [
-          {
-            href: 'https://github.com/razdolie/dev-rules',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        items: [],
       },
       footer: {
         style: 'dark',
@@ -102,6 +96,10 @@ const config = {
               {
                 label: 'razdolie.ru',
                 href: 'https://razdolie.ru/',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/razdolie/',
               },
             ],
           },
