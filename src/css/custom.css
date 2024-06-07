@@ -47,6 +47,9 @@
 
 @media screen and (max-width: 480px) {
   .hero__title {
-    font-size: 2rem;
+    font-size: 1.5rem;
+  }
+  .hero__subtitle{
+    font-size: 1.2rem;
   }
 }

@@ -87,12 +87,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Документация',
-          },
-          {
             href: 'https://github.com/razdolie/dev-rules',
             label: 'GitHub',
             position: 'right',
