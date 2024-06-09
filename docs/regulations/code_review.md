@@ -11,6 +11,6 @@ title: Код-ревью
 
     ![image](img/phoenix.png)
 
-Файл с настройками: **[settingsBSL.json ](file/settingsBSL.json)**
+Файл с настройками: **[settingsBSL.json](file/settingsBSL.json)**
 
 ![image.png](img/phoenix_settings.png)
