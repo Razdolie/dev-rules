@@ -2,7 +2,6 @@
 sidebar_position: 3
 sidebar_label: Роли
 title: Роли
-description: Роли
 ---
 1. Создавать роли на новые объекты и настраивать согласно стандарту **[“Настройка ролей и прав доступа“](https://its.1c.ru/db/v8std/content/689/hdoc)**
 
