@@ -1,0 +1,37 @@
+{
+    "$schema": "https://1c-syntax.github.io/bsl-language-server/configuration/schema.json",
+    "language": "ru",
+    "codeLens": {
+        "showCognitiveComplexity": false,
+        "showCyclomaticComplexity": false
+    },
+    "diagnostics": {
+        "computeTrigger": "onSave",
+        "skipSupport": "never",
+        "parameters": {
+            "LineLength": {
+                "maxLineLength": 140
+            },
+            "CognitiveComplexity": {
+                "complexityThreshold": 35,
+                "checkModuleBody": true
+            },
+            "NestedStatements": {
+                "maxAllowedLevel": 4
+            },
+			"FieldsFromJoinsWithoutIsNull": true,
+			"FunctionNameStartsWithGet": true,
+			"FunctionOutParameter": true,
+			"SelectTopWithoutOrderBy":true,
+			"AssignAliasFieldsInQuery": false,
+			"MagicNumber" : false,
+			"MagicDate":false,
+			"StyleElementConstructors": false,
+			"TooManyReturns": {
+					"maxReturnsCount": 3
+					}
+        }
+    },
+    "traceLog": null,
+    "configurationRoot": "src"
+}
