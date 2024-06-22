@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'Вакансии',
-                href: 'vk.cc/cxPWEC',
+                href: 'https://vk.cc/cxPWEC',
               },
             ],
           },
