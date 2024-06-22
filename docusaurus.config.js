@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'Вакансии',
-                href: 'https://clck.ru/3BR7aL',
+                href: 'vk.cc/cxPWEC',
               },
             ],
           },
