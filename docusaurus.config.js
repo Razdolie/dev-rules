@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'Вакансии',
-                href: 'https://barnaul.hh.ru/employer/48609',
+                href: 'https://clck.ru/3BR7aL',
               },
             ],
           },
