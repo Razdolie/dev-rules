@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Гид по внутренним процессам и стандартам разработки',
-  tagline: 'Все, что нужно для качественной разработки',
+  tagline: 'Все, что нужно для качественной разработки в 1С',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
