@@ -96,8 +96,8 @@ title: Инструменты и подходы
 ![image](img/6_Instrumentarij.jpg)
 
 Для тестирования в 1С есть два основных инструмента:
-- **Vanessa ADD** (внешние обработки)
-- **YaXunit** (расширение)
+- **Vanessa ADD**
+- **YaXunit**
 
 ---
 
