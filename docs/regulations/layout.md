@@ -54,7 +54,9 @@ title: Оформление
     
     ![image.png](img/oformlenie_4.png) 
 
-3. [Все методы программного интерфейса должны иметь описание](https://1c-syntax.github.io/bsl-language-server/diagnostics/PublicMethodsDescription/). 
+3. [Имена процедур и функций](https://its.1c.ru/db/v8std/content/647/hdoc)
+
+4. [Все методы программного интерфейса должны иметь описание](https://1c-syntax.github.io/bsl-language-server/diagnostics/PublicMethodsDescription/). 
 
 Это единственный “контракт” между разработчиками касающихся типизации. Для быстрого создания описания есть специальная возможность в конфигураторе (После создания описание нужно убрать начальную часть **Процедура / Функция)**:
 
@@ -62,15 +64,20 @@ title: Оформление
 
 ![images](img/oformlenie_2.png)
 
-4. [Имя функции не должно начинаться с "Получить"](https://1c-syntax.github.io/bsl-language-server/diagnostics/FunctionNameStartsWithGet/)
+5. [Имя функции не должно начинаться с "Получить"](https://1c-syntax.github.io/bsl-language-server/diagnostics/FunctionNameStartsWithGet/)
 
-5. [Правильный выбор имен процедур и функций очень важен для повышения читаемости кода](https://its.1c.ru/db/v8std/content/647/hdoc)
+6. [Правильный выбор имен процедур и функций очень важен для повышения читаемости кода](https://its.1c.ru/db/v8std/content/647/hdoc)
 
 ## Запросы
 
 1. [Оформление текстов запросов](https://its.1c.ru/db/v8std/content/437/hdoc)
 
 2. Нужно стараться, чтобы каждая часть формируемого запроса могла быть открыта с помощью конструктора запросов
+
+## Метаданные
+1. [Имя, синоним, комментарий](https://its.1c.ru/db/v8std/content/474/hdoc)
+
+2. [Имена объектов метаданных в конфигурациях](https://its.1c.ru/db/v8std/content/550/hdoc)
 
 ## Читаемость кода
 
