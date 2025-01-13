@@ -1,0 +1,8 @@
+{
+  "label": "monitor",
+  "position": 1,
+  "link": {
+    "slug": "monitor",
+    "type": "generated-index"
+  }
+}
